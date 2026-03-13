@@ -1,0 +1,14 @@
+{
+  "maxMonthlyBudget": 5000,
+  "allowedRegions": [
+    "us-east-1",
+    "us-west-2"
+  ],
+  "requireApprovalAbove": 100,
+  "enforceDbEncryption": true,
+  "mandatoryTags": [
+    "Environment",
+    "Owner",
+    "Cost Center"
+  ]
+}
