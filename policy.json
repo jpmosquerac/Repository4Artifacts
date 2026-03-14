@@ -1,5 +1,5 @@
 {
-  "maxMonthlyBudget": 5000,
+  "maxMonthlyBudget": 5001,
   "allowedRegions": [
     "us-east-1",
     "us-west-2"
