@@ -1,10 +1,10 @@
 {
-  "maxMonthlyBudget": 5000,
+  "maxMonthlyBudget": 5500,
   "allowedRegions": [
     "us-east-1",
     "us-west-2"
   ],
-  "requireApprovalAbove": 100,
+  "requireApprovalAbove": 120,
   "enforceDbEncryption": true,
   "mandatoryTags": [
     "Environment",
